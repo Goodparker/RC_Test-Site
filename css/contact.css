@@ -342,11 +342,11 @@
     margin-right: -10000px;
     margin-top: 540px;
     left: 417px;
-    background: transparent url("../images/u3484.png?crc=334611821") no-repeat 0px 0px;
+    background: transparent url("../images/contacts_info_text.png") no-repeat 0px 0px;
 }
 
 #u3484:hover {
-    background: transparent url("../images/u3484-r.png?crc=334611821") no-repeat 0px 0px;
+    background: transparent url("../images/contacts_info_text.png") no-repeat 0px 0px;
 }
 
 #u3454 {
@@ -365,7 +365,6 @@
 
 #menuu3457 {
     z-index: 64;
-    width: 317px;
     height: 34px;
     border-width: 0px;
     border-color: transparent;
@@ -423,7 +422,6 @@
 }
 
 #u3458 {
-    width: 169px;
     min-height: 34px;
     background-color: transparent;
     position: relative;
@@ -432,7 +430,6 @@
 }
 
 #u3461 {
-    width: 169px;
     -webkit-transition-duration: 0s;
     -webkit-transition-delay: 0s;
     transition-duration: 0s;
@@ -450,7 +447,6 @@
     transition-duration: 1s;
     transition-delay: 0s;
     transition-timing-function: ease;
-    width: 169px;
     min-height: 0px;
     margin: 0px;
 }

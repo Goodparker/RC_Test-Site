@@ -123,7 +123,6 @@
 
 #menuu730 {
     z-index: 130;
-    width: 317px;
     height: 34px;
     border-width: 0px;
     border-color: transparent;
@@ -173,11 +172,10 @@
 }
 
 #u746:hover #u748 {
-    background: transparent url("../images/u748-r.png?crc=3922467061") no-repeat 0px 0px;
+    background: transparent url("../images/about_orange_text.png") no-repeat 0px 0px;
 }
 
 #u752 {
-    width: 169px;
     min-height: 34px;
     background-color: transparent;
     position: relative;
@@ -186,20 +184,17 @@
 }
 
 #u753 {
-    width: 169px;
     background-color: transparent;
     padding-bottom: 10px;
     position: relative;
 }
 
 #u753:hover {
-    width: 169px;
     min-height: 0px;
     margin: 0px;
 }
 
 #u753:active {
-    width: 169px;
     min-height: 0px;
     margin: 0px;
 }
