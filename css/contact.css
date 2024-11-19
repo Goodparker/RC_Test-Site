@@ -73,7 +73,7 @@
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg?crc=65036743") no-repeat center center;
+    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@
     transition-duration: 0.5s;
     transition-delay: 0s;
     transition-timing-function: ease;
-    background-image: url("../images/blank.gif?crc=4208392903");
+    background-image: url("../images/blank.gif");
     border-color: #787878;
     background-color: transparent;
     border-radius: 20px;
@@ -342,11 +342,11 @@
     margin-right: -10000px;
     margin-top: 540px;
     left: 417px;
-    background: transparent url("../images/u3484.png?crc=334611821") no-repeat 0px 0px;
+    background: transparent url("../images/u3484.png") no-repeat 0px 0px;
 }
 
 #u3484:hover {
-    background: transparent url("../images/u3484-r.png?crc=334611821") no-repeat 0px 0px;
+    background: transparent url("../images/u3484-r.png") no-repeat 0px 0px;
 }
 
 #u3454 {
@@ -411,15 +411,15 @@
     margin-right: -10000px;
     top: 5px;
     left: 41px;
-    background: transparent url("../images/u3469.png?crc=97186265") no-repeat 0px 0px;
+    background: transparent url("../images/about_white.png") no-repeat 0px 0px;
 }
 
 #u3466:hover #u3469 {
-    background: transparent url("../images/u3469-r.png?crc=3922467061") no-repeat 0px 0px;
+    background: transparent url("../images/about_orange.png") no-repeat 0px 0px;
 }
 
 #u3466.MuseMenuActive #u3469 {
-    background: transparent url("../images/u3469-a.png?crc=472999500") no-repeat 0px 0px;
+    background: transparent url("../images/about_orange_light.png") no-repeat 0px 0px;
 }
 
 #u3458 {
@@ -437,7 +437,7 @@
     -webkit-transition-delay: 0s;
     transition-duration: 0s;
     transition-delay: 0s;
-    background-image: url("../images/blank.gif?crc=4208392903");
+    background-image: url("../images/blank.gif");
     background-color: transparent;
     padding-bottom: 10px;
     position: relative;

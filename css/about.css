@@ -73,7 +73,7 @@
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg?crc=65036743") no-repeat center center;
+    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -96,7 +96,7 @@
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg?crc=65036743") no-repeat center center;
+    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -112,7 +112,7 @@
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.png?crc=528350568") no-repeat center center;
+    background: transparent url("../images/%d0%b1%d0%b5%d0%b7%20%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.png") no-repeat center center;
     background-size: cover;
 }
 
@@ -190,7 +190,7 @@
     transition-duration: 0.5s;
     transition-delay: 0s;
     transition-timing-function: ease;
-    background-image: url("../images/blank.gif?crc=4208392903");
+    background-image: url("../images/blank.gif");
     border-color: #787878;
     background-color: transparent;
     border-radius: 20px;
@@ -350,11 +350,11 @@
     margin-right: -10000px;
     margin-top: 10px;
     left: 282px;
-    background: transparent url("../images/u3039.png?crc=99828414") no-repeat 0px 0px;
+    background: transparent url("../images/u3039.png") no-repeat 0px 0px;
 }
 
 #buttonu3034:hover #u3039 {
-    background: transparent url("../images/u3039-r.png?crc=99828414") no-repeat 0px 0px;
+    background: transparent url("../images/u3039-r.png") no-repeat 0px 0px;
 }
 
 #u3036-4 {
@@ -607,7 +607,7 @@
     filter: alpha(opacity=100);
     border-radius: 20px;
     position: relative;
-    background: transparent url("../images/parker.jpg?crc=115710113") no-repeat center center;
+    background: transparent url("../images/parker1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -619,7 +619,7 @@
     height: 431px;
     min-height: 3px;
     margin: -1px -2px -2px -1px;
-    background: transparent url("../images/parker-u2361-r-fr.png?crc=509203095") no-repeat center center;
+    background: transparent url("../images/parker2.png") no-repeat center center;
     background-size: cover;
 }
 
@@ -631,7 +631,7 @@
     height: 428px;
     min-height: 0px;
     margin: 0px;
-    background: transparent url("../images/parker.jpg?crc=115710113") no-repeat center center;
+    background: transparent url("../images/parker1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -660,11 +660,11 @@
     margin-left: 1px;
     margin-top: 1px;
     position: relative;
-    background: transparent url("../images/u2360.png?crc=94471508") no-repeat 0px 0px;
+    background: transparent url("../images/u2360.png") no-repeat 0px 0px;
 }
 
 #buttonu2358:hover #u2360 {
-    background: transparent url("../images/u2360-r.png?crc=93659495") no-repeat 0px 0px;
+    background: transparent url("../images/u2360-r.png") no-repeat 0px 0px;
 }
 
 #u2938 {
@@ -694,11 +694,11 @@
     vertical-align: top;
     margin-top: 9px;
     position: relative;
-    background: transparent url("../images/u2924.png?crc=290681363") no-repeat 0px 0px;
+    background: transparent url("../images/u2924.png") no-repeat 0px 0px;
 }
 
 #buttonu2358:hover #u2924 {
-    background: transparent url("../images/u2924-r.png?crc=4064496087") no-repeat 0px 0px;
+    background: transparent url("../images/u2924-r.png") no-repeat 0px 0px;
 }
 
 #u2944 {
@@ -759,7 +759,7 @@
     filter: alpha(opacity=100);
     border-radius: 20px;
     position: relative;
-    background: transparent url("../images/%d1%84artem.jpg?crc=4141164456") no-repeat center center;
+    background: transparent url("../images/%d1%84artem.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -771,7 +771,7 @@
     height: 430px;
     min-height: 3px;
     margin: -1px -2px -2px -1px;
-    background: transparent url("../images/%d1%84artem-u2357-r-fr.png?crc=445425275") no-repeat center center;
+    background: transparent url("../images/%d1%84artem-u2357-r-fr.png") no-repeat center center;
     background-size: cover;
 }
 
@@ -783,7 +783,7 @@
     height: 427px;
     min-height: 0px;
     margin: 0px;
-    background: transparent url("../images/%d1%84artem.jpg?crc=4141164456") no-repeat center center;
+    background: transparent url("../images/%d1%84artem.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -811,11 +811,11 @@
     vertical-align: top;
     margin-top: 1px;
     position: relative;
-    background: transparent url("../images/u2356.png?crc=17343808") no-repeat 0px 0px;
+    background: transparent url("../images/u2356.png") no-repeat 0px 0px;
 }
 
 #buttonu2353:hover #u2356 {
-    background: transparent url("../images/u2356-r.png?crc=393981817") no-repeat 0px 0px;
+    background: transparent url("../images/u2356-r.png") no-repeat 0px 0px;
 }
 
 #u2904 {
@@ -845,11 +845,11 @@
     margin-left: 1px;
     margin-top: 5px;
     position: relative;
-    background: transparent url("../images/u2947.png?crc=15297128") no-repeat 0px 0px;
+    background: transparent url("../images/u2947.png") no-repeat 0px 0px;
 }
 
 #buttonu2353:hover #u2947 {
-    background: transparent url("../images/u2947-r.png?crc=116556858") no-repeat 0px 0px;
+    background: transparent url("../images/u2947-r.png") no-repeat 0px 0px;
 }
 
 #pu2953 {
@@ -934,7 +934,7 @@
     filter: alpha(opacity=100);
     border-radius: 20px;
     position: relative;
-    background: transparent url("../images/evenlyvoice.jpg?crc=4196805109") no-repeat center center;
+    background: transparent url("../images/evenlyvoice1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -946,7 +946,7 @@
     height: 430px;
     min-height: 3px;
     margin: -1px -2px -2px -1px;
-    background: transparent url("../images/evenlyvoice-u2371-r-fr.png?crc=4226833237") no-repeat center center;
+    background: transparent url("../images/evenlyvoice2.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -958,7 +958,7 @@
     height: 427px;
     min-height: 0px;
     margin: 0px;
-    background: transparent url("../images/evenlyvoice.jpg?crc=4196805109") no-repeat center center;
+    background: transparent url("../images/evenlyvoice1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -987,11 +987,11 @@
     margin-left: 1px;
     margin-top: 1px;
     position: relative;
-    background: transparent url("../images/u2372.png?crc=3782678858") no-repeat 0px 0px;
+    background: transparent url("../images/u2372.png") no-repeat 0px 0px;
 }
 
 #buttonu2369:hover #u2372 {
-    background: transparent url("../images/u2372-r.png?crc=3933271357") no-repeat 0px 0px;
+    background: transparent url("../images/u2372-r.png") no-repeat 0px 0px;
 }
 
 #u2484 {
@@ -1018,11 +1018,11 @@
     vertical-align: top;
     margin-top: 11px;
     position: relative;
-    background: transparent url("../images/u2481.png?crc=156780290") no-repeat 0px 0px;
+    background: transparent url("../images/u2481.png") no-repeat 0px 0px;
 }
 
 #buttonu2369:hover #u2481 {
-    background: transparent url("../images/u2481-r.png?crc=345294127") no-repeat 0px 0px;
+    background: transparent url("../images/u2481-r.png") no-repeat 0px 0px;
 }
 
 #u2758 {
@@ -1088,11 +1088,11 @@
     position: relative;
     margin-right: -10000px;
     margin-top: 452px;
-    background: transparent url("../images/u2366.png?crc=4036467006") no-repeat 0px 0px;
+    background: transparent url("../images/u2366.png") no-repeat 0px 0px;
 }
 
 #buttonu2364:hover #u2366 {
-    background: transparent url("../images/u2366-r.png?crc=4257250466") no-repeat 0px 0px;
+    background: transparent url("../images/u2366-r.png") no-repeat 0px 0px;
 }
 
 #buttonu2580 {
@@ -1128,7 +1128,7 @@
     border-radius: 20px;
     margin-left: 1px;
     position: relative;
-    background: transparent url("../images/wdfr.jpg?crc=3839825840") no-repeat center center;
+    background: transparent url("../images/wdfr1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -1140,7 +1140,7 @@
     height: 430px;
     min-height: 3px;
     margin: -1px -2px -2px 0px;
-    background: transparent url("../images/wdfr-u2583-r-fr.png?crc=3897253635") no-repeat center center;
+    background: transparent url("../images/wdfr2.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -1152,7 +1152,7 @@
     height: 427px;
     min-height: 0px;
     margin: 0px 0px 0px 1px;
-    background: transparent url("../images/wdfr.jpg?crc=3839825840") no-repeat center center;
+    background: transparent url("../images/wdfr1.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -1199,11 +1199,11 @@
     margin-left: 1px;
     margin-top: 11px;
     position: relative;
-    background: transparent url("../images/u2584.png?crc=129698888") no-repeat 0px 0px;
+    background: transparent url("../images/u2584.png") no-repeat 0px 0px;
 }
 
 #buttonu2580:hover #u2584 {
-    background: transparent url("../images/u2584-r.png?crc=3893429941") no-repeat 0px 0px;
+    background: transparent url("../images/u2584-r.png") no-repeat 0px 0px;
 }
 
 #u2734 {
@@ -1317,7 +1317,7 @@
     -webkit-transition-delay: 0s;
     transition-duration: 0s;
     transition-delay: 0s;
-    background-image: url("../images/blank.gif?crc=4208392903");
+    background-image: url("../images/blank.gif");
     background-color: transparent;
     padding-bottom: 10px;
     position: relative;
@@ -1363,11 +1363,11 @@
     margin-right: -10000px;
     top: 5px;
     left: 41px;
-    background: transparent url("../images/u2055.png?crc=97186265") no-repeat 0px 0px;
+    background: transparent url("../images/u2055.png") no-repeat 0px 0px;
 }
 
 #u2054:hover #u2055 {
-    background: transparent url("../images/u2055-r.png?crc=3922467061") no-repeat 0px 0px;
+    background: transparent url("../images/u2055-r.png") no-repeat 0px 0px;
 }
 
 #u2044 {
@@ -1406,11 +1406,11 @@
     margin-right: -10000px;
     top: 5px;
     left: 41px;
-    background: transparent url("../images/u2049.png?crc=3861400153") no-repeat 0px 0px;
+    background: transparent url("../images/u2049.png") no-repeat 0px 0px;
 }
 
 #u2047:hover #u2049 {
-    background: transparent url("../images/u2049-r.png?crc=4188501009") no-repeat 0px 0px;
+    background: transparent url("../images/u2049-r.png") no-repeat 0px 0px;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,
