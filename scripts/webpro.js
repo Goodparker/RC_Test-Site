@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+/*
+ Copyright 2011-2016 Adobe Systems Incorporated. All Rights Reserved.
+*/
+>>>>>>> d48c0dbbbe47925b4a6bbf47ad941a0c23bb6024
 (function (c) { "function" === typeof define && define.amd && define.amd.jQuery ? define(["jquery", "museutils"], c) : c(jQuery) })(function (c) {
     (function (b, c) {
         function a() { } var f = {
